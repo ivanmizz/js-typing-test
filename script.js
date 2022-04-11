@@ -7,7 +7,7 @@ let time = 60;
 let timer = "";
 let mistakes = 0;
 
-//Display random quotes
+//Display randomly generated quotes
 const renderNewQuote = async () => {
   //Fetch contents from url
   const response = await fetch(quoteApiUrl);

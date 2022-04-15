@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #3066f6;
+  background-color: #74f2e4;
 }
 .container {
   width: 80vmin;
@@ -40,7 +40,7 @@ textarea {
 button {
   float: right;
   margin-top: 20px;
-  background-color: #3066f6;
+  background-color: #74f2e4;
   color: #ffffff;
   border: none;
   padding: 10px 30px;
